@@ -40,9 +40,8 @@ public class Main {
 // DataBox initially configure windows
 // configure windows in data box or in tool box
 // end of file space
-//think about encapsulation a little more
+// think about encapsulation a little more
 
 //------------
 
-// spin issue, <= in speed spinner
 // spin speedup/slowdown bug
